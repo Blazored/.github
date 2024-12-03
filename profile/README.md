@@ -33,7 +33,10 @@ A library for using FluentValidation with Blazor. <br>
 [![Nuget downloads](https://img.shields.io/nuget/dt/Blazored.FluentValidation?logo=nuget)](https://www.nuget.org/packages/Blazored.FluentValidation/)
 ![Build & Test Main](https://github.com/Blazored/FluentValidation/workflows/Build%20&%20Test%20Main/badge.svg)
 
-**[Typeahead (Archived)](https://github.com/Blazored/Typeahead)** <br>
+## Archived Packages
+Packages listed here are no longer maintained and will not recieved any further updates.
+
+**[Typeahead](https://github.com/Blazored/Typeahead)** <br>
 Typeahead control for Blazor applications. <br>
 [![Nuget version](https://img.shields.io/nuget/v/Blazored.Typeahead.svg?logo=nuget)](https://www.nuget.org/packages/Blazored.Typeahead/)
 [![Nuget downloads](https://img.shields.io/nuget/dt/Blazored.Typeahead?logo=nuget)](https://www.nuget.org/packages/Blazored.Typeahead/)
