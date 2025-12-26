@@ -1,7 +1,7 @@
-# Blazored - A collection of components and libraries for Blazor.
-Blazored is a collection of components and libraries designed to help you build Blazor applications, better.
+# Blazored is now archived
+None of the packages are maintained anymore. Please do not use them for any applications, production or otherwise.
 
-## Current Packages
+## Archived Packages
 
 **[Local Storage](https://github.com/Blazored/LocalStorage)** <br> 
 A library to provide access to local storage in Blazor applications. <br>
@@ -32,8 +32,6 @@ A library for using FluentValidation with Blazor. <br>
 [![Nuget version](https://img.shields.io/nuget/v/Blazored.FluentValidation.svg?logo=nuget)](https://www.nuget.org/packages/Blazored.FluentValidation/)
 [![Nuget downloads](https://img.shields.io/nuget/dt/Blazored.FluentValidation?logo=nuget)](https://www.nuget.org/packages/Blazored.FluentValidation/)
 ![Build & Test Main](https://github.com/Blazored/FluentValidation/workflows/Build%20&%20Test%20Main/badge.svg)
-
-## Archived Packages
 Packages listed here are no longer maintained and will not recieved any further updates.
 
 **[Typeahead](https://github.com/Blazored/Typeahead)** <br>
